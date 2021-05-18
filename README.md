@@ -31,13 +31,13 @@ Numpy
 ### Initial DataFrame with Existing Data
     Shows the overall passing grade for Thomas High is 65%
 
-https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/Initial%20DataFrame%20with%20Existing%20Data.png
+![image](https://user-images.githubusercontent.com/59187034/118729150-07c5a600-b7fb-11eb-9263-f616306588a1.png)
 
 ### DataFrame after Removing 9th grade math and reading scores
     We removed 461 students from the initial data set.
     Now shows the overall passing grade for Thomas High is 90%
 
-https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/DataFrame%20after%20Removing%209th%20grade%20math%20and%20reading%20scores.png
+![image](https://user-images.githubusercontent.com/59187034/118729205-19a74900-b7fb-11eb-9143-3f673c5ed40c.png)
 
 
 
@@ -45,13 +45,13 @@ https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/D
 ### Thomas High now a Top 5 School in district
     Before removing scores, Thomas High was a bottom 5 performing school, now they are comfortable in the top 5
 
-https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/Thomas%20High%20now%20a%20Top%205%20School%20in%20district.png
+![image](https://user-images.githubusercontent.com/59187034/118729244-262ba180-b7fb-11eb-8c4d-3db13d481851.png)
 
 ### Spend Per Student
 
     After the Thomas High School Math and Reading Scores were taken out, we were tasked with looking at spending per student. We had to make customized spending ranges to visualize the differences on how budgeting was allocated from school to school.
 
-https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/Spend%20Per%20Student.png
+![image](https://user-images.githubusercontent.com/59187034/118729260-2c218280-b7fb-11eb-8e37-57008abbf307.png)
 
     As seen in this data frame, schools that had a higher spend per students, tend to have lower test scores those who spend higher than ~$630 per student
 
@@ -59,13 +59,13 @@ https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/S
 
     We also created a data frame to show how schools perform depending on their size. Schools on the smaller size (small to medium) tend to have better scores than schools considered large.
 
-https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/School%20Performance%20by%20Size.png
+![image](https://user-images.githubusercontent.com/59187034/118729279-35125400-b7fb-11eb-9f1e-d679884e697d.png)
 
 ### School Performance by Type
     
     In this data set, we had two different types of schools, Charter and district schools. According to this data frame that we created arranged by "School Type" we can see that Charter schools tend to produce much better scores than district schools
 
-https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/School%20Performance%20by%20Type.png
+![image](https://user-images.githubusercontent.com/59187034/118729291-3b083500-b7fb-11eb-843a-d278cfc8c6ad.png)
 
 ## Summary
 
