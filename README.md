@@ -71,7 +71,7 @@ https://github.com/roderickspells/School_District_Analysis/blob/main/Resources/S
 
     After analyzing the data set and removing the 9th grade math and reading test scores from Thomas High School overall district performing increased. We removed 461 student scores (a district total of roughly 40,000 students) from the initial data set. By removing the scores, the overall metrics of the school did not change, in fact by removing the suspicious scores, the averages actually increase.
 
-It seems more likely that schools that spend LESS on their students as well as being smaller in overall size, tend to have more success than larger schools that spend more per student.
+  It seems more likely that schools that spend LESS on their students as well as being smaller in overall size, tend to have more success than larger schools that spend more per student.
 
 
 
